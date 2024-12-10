@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Rongqing Li"
-description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
+description              : "PhD student at Beijing Institute of Technology, focusing on trajectory prediction in autonomous driving"
 repository               : "Elnath-123/Elnath-123.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,12 +23,12 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Rongqing Li"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Lorem ipsum College"
+  bio              : "Beijing Institute of Technology"
   location         : "Beijing, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
-  email            : "Lorem@ipsum.com"
+  email            : "lirongqing99@gmail.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
