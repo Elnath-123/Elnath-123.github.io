@@ -44,7 +44,7 @@ I have published several top conferences and journals, including IEEE TIP, IEEE 
 
 **NeurIPS 2024 (CCF A)**
 
-Yuhang Li, Changsheng Li, Ruilin Lv, **Rongqing Li**, Ziyue Zhang, Ye Yuan, Guoren Wang
+Yuhang Li, Changsheng Li, Ruilin Lv, **Rongqing Li**, Ye Yuan, Guoren Wang
 
 <!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
@@ -139,7 +139,9 @@ Changsheng Li, **Rongqing Li**, Ye Yuan, Guoren Wang, Dong Xu
 </div>
 </div>
 
-
+# ☘️ Serivce
+Conference Reviewer: NeurIPS, ICLR, ICML, CVPR, AAAI, AISTATS, RA-L
+Journal Reviewer: IEEE T-IV, CAAI T-IT
 # 🎖 Honors and Awards
 <!-- - *2024.？* Youth Talents Support Project - Doctoral Student Special Program (3000 persons in China) -->
 - *2024.10* National Scholarship (Top 1%).
