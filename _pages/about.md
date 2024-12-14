@@ -139,7 +139,7 @@ Changsheng Li, **Rongqing Li**, Ye Yuan, Guoren Wang, Dong Xu
 </div>
 </div>
 
-# ☘️ Serivce
+# ☘️ Services
 Conference Reviewer: NeurIPS, ICLR, ICML, CVPR, AAAI, AISTATS, RA-L
 Journal Reviewer: IEEE T-IV, CAAI T-IT
 # 🎖 Honors and Awards
