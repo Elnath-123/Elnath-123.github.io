@@ -149,7 +149,7 @@ Journal Reviewer: IEEE T-IV, CAAI T-IT
 - *2020.10* Xiaomi Scholarship.
 
 # 📖 Educations
-- *2019.06 - now*, PhD., Beijing Institute of Technology
+- *2021.09 - now*, PhD., Beijing Institute of Technology
 - *2017.09 - 2021.06*, Undergraduate, B.S., Beijing University of Technology
 
 <!-- # 💬 Invited Talks
