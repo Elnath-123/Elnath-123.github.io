@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 I am a 4-th year PhD student at School of Computer Science, Beijing Institute of Technology (BIT), advised by <a href='https://scholar.google.co.jp/citations?user=FfJnUioAAAAJ&hl=ja'>Prof. Changsheng Li</a>. Before that, I received my B.S. degree in Beijing University of Technology (BJUT) in 2021. 
-
+I received funding from the 2024 **<font color="#FF0000">Young Elite Scientists Sponsorship Program by CAST - Doctoral Student Special Plan</font>**.
 My research interests include trajectory prediction, AI security, and image processing.
 
 I have published several top conferences and journals <a href='https://scholar.google.com/citations?user=tqSCPIQAAAAJ'><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FElnath-123%2Fgoogle-scholar-stats%40main%2Fgs_data_shieldsio.json&style=flat&label=citations&labelColor=f6f6f6&color=9cf"></a>, including IEEE TIP, IEEE TKDE, NeurIPS, KDD and IROS. 
@@ -145,6 +145,7 @@ Conference Reviewer: NeurIPS, ICLR, ICML, ICCV, CVPR, AAAI, AISTATS, RA-L
 Journal Reviewer: IEEE T-IV, CAAI T-IT, Pattern Recognition
 # 🎖 Honors and Awards
 <!-- - *2024.？* Youth Talents Support Project - Doctoral Student Special Program (3000 persons in China) -->
+- *2025.02* The 2024 Young Elite Scientists Sponsorship Program by CAST - Doctoral Student Special Plan (中国科协青年人才托举工程-博士生专项计划). 
 - *2024.10* National Scholarship (Top 1%).
 - *2020.10* Xiaomi Scholarship.
 
