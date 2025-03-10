@@ -21,7 +21,11 @@ I am a 4-th year PhD student at School of Computer Science, Beijing Institute of
 
 My research interests include trajectory prediction, AI security, and image processing.
 
-I have published several top conferences and journals, including IEEE TIP, IEEE TKDE, NeurIPS, KDD and IROS. 
+I have published several top conferences and journals <a href='https://scholar.google.com/citations?user=tqSCPIQAAAAJ'><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FElnath-123%2Fgoogle-scholar-stats%40main%2Fgs_data_shieldsio.json&style=flat&label=citations&labelColor=f6f6f6&color=9cf"></a>, including IEEE TIP, IEEE TKDE, NeurIPS, KDD and IROS. 
+
+
+
+
 
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
@@ -140,9 +144,9 @@ Changsheng Li, **Rongqing Li**, Ye Yuan, Guoren Wang, Dong Xu
 </div>
 
 # ☘️ Services
-Conference Reviewer: NeurIPS, ICLR, ICML, CVPR, AAAI, AISTATS, RA-L
+Conference Reviewer: NeurIPS, ICLR, ICML, CVPR, ICCV, AAAI, AISTATS, RA-L
 
-Journal Reviewer: IEEE T-IV, CAAI T-IT
+Journal Reviewer: IEEE T-IV, CAAI T-IT, Pattern Recognition
 # 🎖 Honors and Awards
 <!-- - *2024.？* Youth Talents Support Project - Doctoral Student Special Program (3000 persons in China) -->
 - *2024.10* National Scholarship (Top 1%).
