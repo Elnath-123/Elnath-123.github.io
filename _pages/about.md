@@ -141,9 +141,7 @@ Changsheng Li, **Rongqing Li**, Ye Yuan, Guoren Wang, Dong Xu
 
 # ☘️ Services
 Conference Reviewer: NeurIPS, ICLR, ICML, CVPR, ICCV, AAAI, AISTATS, RA-L
-Conference Reviewer: NeurIPS, ICLR, ICML, ICCV, CVPR, AAAI, AISTATS, RA-L
 
-Journal Reviewer: IEEE T-IV, CAAI T-IT, Pattern Recognition
 Journal Reviewer: IEEE T-IV, CAAI T-IT, Pattern Recognition
 # 🎖 Honors and Awards
 <!-- - *2024.？* Youth Talents Support Project - Doctoral Student Special Program (3000 persons in China) -->
