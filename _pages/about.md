@@ -35,7 +35,6 @@ I have published several top conferences and journals <a href='https://scholar.g
 - *2024.05*: &nbsp;🎉🎉 I Got CVPR 2025 **<font color="#FF0000">Outstanding Reviewer</font>** Award
 - *2024.10*: &nbsp;🎉🎉 1 paper on Trajectory Prediction is accepted by NeurIPS'24
 - *2024.09*: &nbsp;🎉🎉 1 paper on Model Reverse Engineering is accepted by TKDE'24
-- *2024.09*: &nbsp;🎉🎉 The paper "Deep Dense Multi-Scale Network for Snow Removal Using Semantic and Depth Priors" is cited over **<font color="#FF0000">100</font>** times!
 - *2024.06*: &nbsp;🎉🎉 1 paper on Trajectory Prediction is accepted by IROS'24
 - *2024.05*: &nbsp;🎉🎉 1 paper on Trajectory Prediction is accepted by KDD'24
 - *2023.10*: &nbsp;🎉🎉 1 paper on Trajectory Prediction is accepted by NeurIPS'23
